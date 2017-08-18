@@ -9,7 +9,6 @@
   <link rel="shortcut icon" href="/assets/images/favicon.ico">
 </head>
 <body class="no-js photos">
-
   <header class="header" role="banner">
     <h2 class="header__heading"><a href="/" title="Link to home page">Bryncws Farm</a></h2>
     <a href="/" title="Link to home page">
@@ -25,36 +24,33 @@
       </ol>
     </nav>
   </header>
+
   <div class="wrapper">
-    <main role="main">
-      <h1 id="photos">Photos</h1>
-<p>List of photos from Flickr.</p>
-
-    </main>
-    <aside role="complementary">
-      <h2>Posts</h2>
-        <ol class="o-list-disc">
-          <li><a href="/./posts/another-blog-post">Another blog post</a></li>
-          <li><a href="/./posts/intentionally-blank">Intentionally blank</a></li>
-        </ol>
-    </aside>
+    <div id="Flickfeed"></div>
   </div>
-
-<footer class="footer" id="footer" role="contentinfo">
-  <div class="footer__social footer__link">
-    <ol class="o-list-bare o-list-center">
-      <li><a href="https://twitter.com/Bryncws" title="Link to Bryncws Twitter account">Twitter</a></li>
-      <li><a href="https://flickr.com/Bryncws" title="Link to Bryncws Flickr account">Flickr</a></li>
-      <li><a href="mailto:contact@bryncws.co.uk" title="Email link for Bryncws Farm">Email</a></li>
-      <li><a href="https://www.bryncws.co.uk/rss.xml" title="Link to news feed">RSS</a></li>
-    </ol>
-  </div>
-  <div class="footer__small footer__link">
-    <p>Built by <a href="https://www.growdigital.org/">Jake Rayson</a> with <a href="http://www.metalsmith.io/">Metalsmith</a>, deployed by <a href="https://www.netlify.com/">Netlify</a></p>
-    <p>All content opyright &copy; Bryncws Farm. Website structure licensed under <a href="https://choosealicense.com/licenses/mit/">MIT</a> &amp; <a href="https://choosealicense.com/licenses/gpl-3.0/">GPL v3</a>
-  </div>
-</footer>
-
+  <footer class="footer" id="footer" role="contentinfo">
+    <div class="footer__social footer__link">
+      <ol class="o-list-bare o-list-center">
+        <li><a href="https://twitter.com/Bryncws" title="Link to Bryncws Twitter account">Twitter</a></li>
+        <li><a href="https://www.flickr.com/photos/bryncws/" title="Link to Bryncws Flickr photos">Flickr</a></li>
+        <li><a href="mailto:contact@bryncws.co.uk" title="Email link for Bryncws Farm">Email</a></li>
+        <li><a href="https://www.bryncws.co.uk/rss.xml" title="Link to news feed">RSS</a></li>
+      </ol>
+    </div>
+    <div class="footer__small footer__link">
+      <p>Built by <a href="https://www.growdigital.org/">Jake Rayson</a> with <a href="http://www.metalsmith.io/">Metalsmith</a>, deployed by <a href="https://www.netlify.com/">Netlify</a></p>
+      <p>All content opyright &copy; Bryncws Farm. Website structure licensed under <a href="https://choosealicense.com/licenses/mit/">MIT</a> &amp; <a href="https://choosealicense.com/licenses/gpl-3.0/">GPL v3</a>
+    </div>
+  </footer>
 <script src="/assets/scripts.js"></script>
+<script type="text/javascript">
+  Flickfeed({
+    userId: "153846228@N03",
+    limit: 10,
+    target: "#Flickfeed",
+    size: 'm', // 240
+    sort: 'date-posted-desc'
+  });
+</script>
 </body>
 </html>

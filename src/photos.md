@@ -1,5 +1,5 @@
 ---
-layout: layout.hbs
+layout: photos.hbs
 pageTitle: Photos
 pageClass: photos
 
