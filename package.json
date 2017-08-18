@@ -1,7 +1,7 @@
 {
-  "name": "groundwork",
+  "name": "bryncws",
   "version": "0.0.1",
-  "description": "Blank Modular CSS Starter Kit using Metalsmith",
+  "description": "Metalsmith website for Bryncws campsite, farm and horse training",
   "author": "Jake Rayson <contact@groundwork.rocks>",
   "license": [
     "MIT ",
