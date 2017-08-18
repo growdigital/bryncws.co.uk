@@ -18,8 +18,8 @@ let handlebars  = require('handlebars');
 Metalsmith(__dirname)
   .metadata({
     site: {
-      title: "Bryncws",
-      description: "Bryncws campsite, farm and horse training",
+      title: "Bryncws Farm",
+      description: "Campsite and horse training",
       url: "https://www.bryncws.co.uk//",
       author: "Jake Rayson"
     }
