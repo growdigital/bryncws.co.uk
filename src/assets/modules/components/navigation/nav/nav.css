@@ -7,7 +7,7 @@
  */
 
 .nav {
-  background-color: gainsboro;
+  /*background-color: gainsboro;*/
   font-family: var(--base-fontdisplay);
   padding: 0.7em;
 }
@@ -24,15 +24,16 @@
 .about .nav .about,
 .html .nav .html
 {
-  background-color: white;
+  /*background-color: white;*/
+  text-decoration: underline;
 }
 
-.nav a,
+/*.nav a,
 .nav a:hover,
 .nav a:focus,
 .nav a:active {
   color: black;
-}
+}*/
 
 .nav a:hover {
   color: var(--base_linkcolorhover);

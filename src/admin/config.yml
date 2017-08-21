@@ -2,3 +2,4 @@ backend:
   name: github
   repo: growdigital/bryncws.co.uk
   branch: master
+  media_folder: "assets/images/uploads"

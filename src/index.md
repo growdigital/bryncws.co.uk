@@ -5,6 +5,8 @@ pageClass: home
 
 ---
 
-# Campsite. And horses
+# Beautiful camping, horse training & riding
+
+## Campsite for tents, caravans and camper vans
 
 We will also have photos.

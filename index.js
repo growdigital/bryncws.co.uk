@@ -20,7 +20,7 @@ Metalsmith(__dirname)
   .metadata({
     site: {
       title: "Bryncws Farm",
-      description: "Campsite and horse training",
+      description: "Campsite and horses",
       url: "https://www.bryncws.co.uk//",
       author: "Jake Rayson"
     }
