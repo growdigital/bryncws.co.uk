@@ -21,7 +21,7 @@ Metalsmith(__dirname)
     site: {
       title: "Bryncws Farm",
       description: "Campsite and horses",
-      url: "https://www.bryncws.co.uk//",
+      url: "http://bryncws.netlify.com/",
       author: "Jake Rayson"
     }
   })
