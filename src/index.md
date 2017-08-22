@@ -5,10 +5,10 @@ pageClass: home
 
 ---
 
-# Beautiful camping, beautiful horses
+# Stunning Pembrokeshire farmhouse, campsite and horse centre
 
 ![Farmhouse](/assets/images/farmhouse.jpg)
 
 ## Campsite for tents, caravans and camper vans
 
-We will also have photos.
+

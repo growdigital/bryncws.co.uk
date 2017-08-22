@@ -20,7 +20,7 @@ Metalsmith(__dirname)
   .metadata({
     site: {
       title: "Bryncws Farm",
-      description: "Campsite and horses",
+      description: "Beautiful camping, beautiful horses",
       url: "http://bryncws.netlify.com/",
       author: "Jake Rayson"
     }
