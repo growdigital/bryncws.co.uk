@@ -17,9 +17,9 @@
 
   --base_background:     white;
   --base_color:          var(--base_text);
-  --base_font:           'Georgia', serif;
-  --base-fontdisplay:    sans-serif;
-  --base_fontsize:       16px;
+  --base_font:           'Spectral', serif;
+  --base-fontdisplay:    var(--base_font);
+  --base_fontsize:       18px;
   --base_lineheight:     1.5;
   --base_linkcolor:      var(--blue_link);
   --base_linkcolorhover: var(--blue_link);

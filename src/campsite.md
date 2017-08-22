@@ -1,7 +1,7 @@
 ---
 layout: layout.hbs
-pageTitle: Camping
-pageClass: camping
+pageTitle: Campsite
+pageClass: campsite
 
 ---
 

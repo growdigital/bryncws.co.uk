@@ -21,8 +21,9 @@
 
 /* Main nav */
 .home .nav .home,
-.about .nav .about,
-.html .nav .html
+.campsite .nav .campsite,
+.horses .nav .horses,
+.photos .nav .photos
 {
   /*background-color: white;*/
   text-decoration: underline;
