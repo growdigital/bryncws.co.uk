@@ -5,6 +5,10 @@ pageClass: horses
 
 ---
 
-# Horse training
+# Horses
 
-We train horses. And people.
+![Mule](/assets/images/mule.jpg)
+
+* Understanding horses
+* Riding 
+* Working horses

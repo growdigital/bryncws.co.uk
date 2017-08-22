@@ -5,7 +5,9 @@ pageClass: home
 
 ---
 
-# Beautiful camping, horse training & riding
+# Beautiful camping, beautiful horses
+
+![Farmhouse](/assets/images/farmhouse.jpg)
 
 ## Campsite for tents, caravans and camper vans
 
