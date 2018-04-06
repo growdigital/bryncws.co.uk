@@ -1,0 +1,42 @@
+body {
+  color: #4a4a4a;
+  font-family: 'Spectral', 'Palatino', Georgia, serif;
+  line-height: 1.5;
+  padding-top: 3em;
+  text-align: center;
+}
+
+img {
+  display: inline-block;
+  height: auto;
+  max-width: 100%;
+}
+
+.hero {
+  margin: 1.5em 0;
+}
+
+.cta {
+  margin-bottom: 2em;
+}
+
+h1, h2 {
+  font-weight: normal;
+  line-height: 1.2;
+  margin: 0 0 0.4em;
+}
+
+h2 {
+  font-size: 1em;
+}
+
+a:link,
+a:visited {
+  color: #4990e2;
+  text-decoration: none;
+}
+
+a:hover, 
+a:active {
+  text-decoration: underline;
+}
